@@ -1,4 +1,4 @@
-Student Feedback Analyzer
+# Student Feedback Analyzer
 This is a simple Python-based project that collects and analyzes student feedback.
 
 ## Features
